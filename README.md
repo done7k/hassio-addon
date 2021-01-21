@@ -14,6 +14,14 @@ konnected board maintains a tiny webserver and can returns a set of configuation
 
 ### Installation
 
+1. Move the "konnected_board_check.py" program to /config/custom_components forder on HA ;
+
+2. Configure a new sensor in your configuration.yaml file
+
+
+
+
+
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)

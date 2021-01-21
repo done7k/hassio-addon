@@ -6,7 +6,7 @@ Collection of addons for Home Assistant
 
 The program is designed for Home Assistant. 
 
-konnected board maintains a tiny webserver and can return a set of configuration and status values. In some installation environments it is critical to see board level of Wifi signal which is not provided by standard konnected integration. This addon fetches “/status” information including RSSI strength; adds proper icon name and returns indormaiton in JSON format. Running it as a sensor gives you real-time connection status for your konnected board in Home Assistant.
+konnected board maintains a tiny webserver and can return a set of configuration and status values. In some installation environments it is critical to see board level of Wifi signal which is not provided by standard konnected integration. This addon fetches “/status” information including RSSI strength; adds proper icon name and returns informaiton in JSON format. Running it as a sensor gives you real-time connection status for your konnected board in Home Assistant.
 
 ![repo-settings-image](https://github.com/done7k/hassio-addon/blob/master/images/konnekted_card.PNG)
 

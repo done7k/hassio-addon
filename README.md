@@ -1,4 +1,4 @@
-# Welcome to GitHub
+# Welcome 
 
 Collection of addons for Home Assistant
 

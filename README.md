@@ -2,7 +2,7 @@
 
 Collection of addons for Home Assistant
 
-## konnected board status to Home Assistant
+## konnected board status in Home Assistant
 
 The program is designed for Home Assistant. 
 

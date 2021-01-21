@@ -8,9 +8,7 @@ The program is designed for Home Assistant.
 
 konnected board maintains a tiny webserver and can returns a set of configuation and status values. In some installation enviroments it is critical to see board level of Wifi signal which is not provided by standard konnected integration. Thei addon fetch /status information with RSSI status; adds wifi icon name in a JSON format. Running it as a sensor gives you real-time conneciton status for your konnected board in Home Assistant.  
 
-The addon allows you to 
-
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
 
 ## Describe your project
 

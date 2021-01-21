@@ -8,9 +8,11 @@ The program is designed for Home Assistant.
 
 konnected board maintains a tiny webserver and can returns a set of configuation and status values. In some installation enviroments it is critical to see board level of Wifi signal which is not provided by standard konnected integration. Thei addon fetch /status information with RSSI status; adds wifi icon name in a JSON format. Running it as a sensor gives you real-time conneciton status for your konnected board in Home Assistant.  
 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+![repo-settings-image](https://github.com/done7k/hassio-addon/blob/master/images/konnekted_card.PNG)
 
-## Describe your project
+![repo-settings-image](https://github.com/done7k/hassio-addon/blob/master/images/konnekted_sensor.PNG)
+
+### Installation
 
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
